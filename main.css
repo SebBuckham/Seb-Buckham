@@ -128,13 +128,11 @@ input {
   }
   .picture img {
     width: 340px;
-    width: 440px;
     display: flex;
     justify-content: center;
     position: relative;
     margin-bottom: 50px;
     left: 90px;
-    left: 20px;
   }
   .about p {
     display: flex;
@@ -146,11 +144,5 @@ input {
     margin-bottom: 20px;
     top: 20px;
     flex-basis: 25%;
-    font-size: 19px;
-    position: relative;
-    left: 30px;
-    margin-bottom: 20px;
-    top: 20px;
-    width: 90%;
   }
 }
