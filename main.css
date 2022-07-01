@@ -125,15 +125,16 @@ input {
     justify-content: center;
     position: relative;
     margin-bottom: 0;
-    left: 40px;
+    left: 20px;
   }
   .about p {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    font-size: 20px;
+    font-size: 17px;
     position: relative;
-    left: 30px;
+    left: 40px;
+    margin-bottom: 20px;
     top: 20px;
   }
 }
