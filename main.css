@@ -127,12 +127,12 @@ input {
     flex-direction: column;
   }
   .picture img {
-    width: 340px;
+    width: 250px;
     display: flex;
     justify-content: center;
     position: relative;
     margin-bottom: 50px;
-    left: 90px;
+    left: 100px;
   }
   .about p {
     display: flex;
@@ -143,6 +143,9 @@ input {
     left: 20px;
     margin-bottom: 20px;
     top: 20px;
-    flex-basis: 25%;
+    width: 450px;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+    line-height: 30px;
   }
 }
