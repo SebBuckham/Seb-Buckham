@@ -61,12 +61,18 @@ nav {
   font-size: 30px;
 }
 
+work {
+  margin-top: 20px;
+  background-color: white;
+  height: 500px;
+}
+
 label {
   color: white;
   cursor: pointer;
   display: flex;
   flex-direction: column;
-  margin-right: 10px;
+  margin-right: 20px;
   font-size: 30px;
   float: right;
   position: relative;
@@ -120,21 +126,22 @@ input {
     flex-direction: column;
   }
   .picture img {
-    width: 350px;
+    width: 440px;
     display: flex;
     justify-content: center;
     position: relative;
-    margin-bottom: 0;
+    margin-bottom: 50px;
     left: 20px;
   }
   .about p {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    font-size: 17px;
+    font-size: 19px;
     position: relative;
-    left: 40px;
+    left: 30px;
     margin-bottom: 20px;
     top: 20px;
+    width: 90%;
   }
 }
