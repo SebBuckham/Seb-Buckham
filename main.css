@@ -127,25 +127,24 @@ input {
     flex-direction: column;
   }
   .picture img {
-    width: 250px;
+    width: 70%;
     display: flex;
     justify-content: center;
     position: relative;
     margin-bottom: 50px;
-    left: 20px;
+    left: 60px;
   }
-  .about p {
+  .about {
     display: flex;
     justify-content: center;
     flex-direction: column;
     font-size: 20px;
     position: relative;
-    left: 20px;
-    margin-bottom: 20px;
-    top: 20px;
+    right: 50px;
+    bottom: 150px;
+    margin-bottom: 30px;
     width: 450px;
     font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
       "Lucida Sans", Arial, sans-serif;
-    line-height: 30px;
   }
 }
